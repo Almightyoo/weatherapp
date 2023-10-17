@@ -1,6 +1,8 @@
 # weatherapp
 
 A new Flutter project.
+<img width="1432" alt="Screen Shot 2023-10-17 at 12 25 33 PM" src="https://github.com/Almightyoo/weatherapp/assets/117665293/e09675dc-efe8-4fef-9368-da6dab5f3499">
+
 
 ## Getting Started
 
